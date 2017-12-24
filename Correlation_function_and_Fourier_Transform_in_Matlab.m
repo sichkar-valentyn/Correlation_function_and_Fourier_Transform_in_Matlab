@@ -1,5 +1,15 @@
+% File: Correlation_function_and_Fourier_Transform_in_Matlab.m
+% Description: Correlation function and Fourier Transform to find one specific letter in the image
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Matlab - Correlation function and Fourier Transform to find one specific letter in the image with the text // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Correlation_function_and_Fourier_Transform_in_Matlab (date of access: XX.XX.XXXX)
+
 close all;
-clear all;
 
 %Conversion of a gray scale image to a binary one
 original_image = imread('findAngle10.png');
