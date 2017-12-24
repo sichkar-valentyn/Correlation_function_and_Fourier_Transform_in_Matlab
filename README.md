@@ -8,13 +8,13 @@ Using Correlation function and Fourier Transform to find one specific letter in 
 correlation function and Fourier Transform in Matlab to find one specific letter in the image with the text
 
 ## Conversion an original image to a binary one
-![Results](images/Conversion_an_original_image_to_a_binary_one.png)
+![Results](image/Conversion_an_original_image_to_a_binary_one.png)
 
 ## Constructing the images with the patterns
-![Results](images/Constructing_the_image_with_the_pattern.png)
+![Results](image/Constructing_the_image_with_the_pattern.png)
 
 ## Executing transformation for the images and finding the positioms of the letters
-![Results](images/Executing_transformation_for_the_images_and_finding_the_positioms_of_the_letters.png)
+![Results](image/Executing_transformation_for_the_images_and_finding_the_positioms_of_the_letters.png)
 
 ## MIT License
 ## Copyright (c) 2017 Valentyn N Sichkar
