@@ -7,7 +7,7 @@ Using Correlation function and Fourier Transform to find one specific letter in 
 ## Description
 With Correlation Function and Fourier Transform we’re going to find one specific letter in the image with the text.
 
-## Conversion an original image to a binary one
+## Conversion an original image to a binary one 
 First of all, we need to convert an original image to a binary one.
 ![Results](image/Conversion_an_original_image_to_a_binary_one.png)
 
