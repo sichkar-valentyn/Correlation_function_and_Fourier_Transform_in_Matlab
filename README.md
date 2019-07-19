@@ -1,9 +1,6 @@
 # Correlation function and Fourier Transform in Matlab
 Using Correlation function and Fourier Transform to find one specific letter in the image with the text
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Matlab - Correlation function and Fourier Transform to find one specific letter in the image with the text // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Correlation_function_and_Fourier_Transform_in_Matlab (date of access: XX.XX.XXXX)
 
